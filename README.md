@@ -5,7 +5,7 @@ These are some of the codes that I will be writing in moving forward with my res
 
 top_bottom.py detects the surface densities of OHs on top and bottom surfaces.
 
-convert_data.sh is a file that splits a trajectory file with two or more trajectories and it can print out first half or the second half of the file
+convert_data.sh is an awk file that splits a trajectory file with two or more trajectories and it can print out first half or the second half of the file
 all what needs to be done is ,,,
 chmod +x convert_data.sh ---> ./convert_data.sh
 
