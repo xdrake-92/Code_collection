@@ -9,4 +9,4 @@ convert_data.sh is an awk file that splits a trajectory file with two or more tr
 all what needs to be done is ,,,
 chmod +x convert_data.sh ---> ./convert_data.sh
 
-
+Hydrolysis_energy_calculator - calculates the hydrolysis energy values corresponding to a given set of slabs.
